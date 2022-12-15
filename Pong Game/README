@@ -1,0 +1,11 @@
+# TODO 1: screen
+# TODO 2  player class
+# TODO 3: one obj for each player in main
+# TODO 4: movement for each player(event)
+# TODO 5: write() score for each player
+
+# TODO 6: Dot class
+# TODO 7: start/goto point and move
+# TODO 8: touch player => score+1
+# TODO 9: touch vertical wall => score-1
+# TODO 10: touch horizontal wall => bounce back
